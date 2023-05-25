@@ -1,4 +1,4 @@
-# Residential-real-estate-analysis
+# Residential Real Estate Analysis
 
 ## Project Overview
 This project is a part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
