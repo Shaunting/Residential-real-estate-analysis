@@ -1,7 +1,7 @@
 # Residential-real-estate-analysis
 
 ## Project Overview
-This project is a part of the IBM Data Science [Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
+This project is a part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
 
 ## Description
 The objective of this project is to conduct a comprehensive data analysis within the Real Estate Investment Trust (REIT) sector. The focus is on facilitating the Trust's entry into the residential real estate market by accurately determining the market price of houses based on various essential features. This initial step involves analyzing and predicting housing prices using attributes such as square footage, number of bedrooms, number of floors, and other relevant factors. The goal is to provide valuable insights and predictive models that assist in making informed investment decisions within the residential real estate sector.
